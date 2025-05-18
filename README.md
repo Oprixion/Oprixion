@@ -1,4 +1,4 @@
-- 👋 Hi, my name is Thaison Nghiem
+- 👋 Hi, my name is Tyson Nghiem
 - 👀 I’m interested in programming and espescially AI and Machine Learning
 - 🌱 I’m currently learning full-stack web development,  software engineering
 - 💞️ I’m looking to collaborate on entrance level freelance projects
